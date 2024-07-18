@@ -12,11 +12,12 @@ Hi, I'm Thulasi Vasan S, a passionate Information Technology student at Anna Uni
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sasuke-uchiha12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasuke-uchiha12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# ♾️ LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sasuke-uchiha12?theme=nord&font=Roboto%20Mono&ext=heatmap)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sasuke-uchiha12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sasuke-uchiha12&limit=5&theme=dark&combine_all_yearly_contributions=true)
