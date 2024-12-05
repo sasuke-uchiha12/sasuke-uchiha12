@@ -23,6 +23,6 @@ Hi, I'm Thulasi Vasan S, a passionate Information Technology student at Anna Uni
 ![](https://github-contributor-stats.vercel.app/api?username=sasuke-uchiha12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sasuke-uchiha12&icon=2&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=sasuke-uchiha12&icon=2&color=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
