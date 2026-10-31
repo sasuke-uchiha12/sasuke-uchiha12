@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100" role="img" aria-label="Build with AI. Connect through my portfolio, LinkedIn, or email."><style>
+    .g-blob1 { animation: g-drift1 10s ease-in-out infinite; }
+    .g-blob2 { animation: g-drift2 10s ease-in-out infinite; }
+    .g-blob3 { animation: g-drift3 10s ease-in-out infinite; }
+    @keyframes g-drift1 {
+      0%, 100% { transform: translate(0, 0); }
+      25% { transform: translate(40px, -25px); }
+      50% { transform: translate(0, -50px); }
+      75% { transform: translate(-40px, -25px); }
+    }
+    @keyframes g-drift2 {
+      0%, 100% { transform: translate(0, 0); }
+      25% { transform: translate(-30px, 25px); }
+      50% { transform: translate(0, 50px); }
+      75% { transform: translate(30px, 25px); }
+    }
+    @keyframes g-drift3 {
+      0%, 100% { transform: translate(0, 0); }
+      25% { transform: translate(25px, -40px); }
+      50% { transform: translate(-40px, 0); }
+      75% { transform: translate(25px, 40px); }
+    }
+    .g-p { animation: g-pulse 3s ease-in-out infinite; }
+    .p1 { animation-delay: -0.6s; }
+    .p2 { animation-delay: -1.2s; }
+    .p3 { animation-delay: -1.8s; }
+    .p4 { animation-delay: -2.4s; }
+    @keyframes g-pulse {
+      0%, 100% { opacity: 0.15; }
+      50% { opacity: 0.32; }
+    }
+  @media(prefers-reduced-motion:reduce){*{animation:none!important}}</style><defs>
+    <filter id="g-blur" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <filter id="g-card-shadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="g-mini-shadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    <radialGradient id="g-blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38d5e8" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#38d5e8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#38d5e8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g-blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ae80ff" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#ae80ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ae80ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g-blob3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ed80bd" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#ed80bd" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ed80bd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g-vignette" cx="50%" cy="50%" r="65%">
+      <stop offset="50%" stop-color="rgb(0,0,0)" stop-opacity="0"/>
+      <stop offset="100%" stop-color="rgb(0,0,0)" stop-opacity="0.45"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="100" fill="#080c20"/>
+  <g filter="url(#g-blur)" class="g-blobs">
+    <circle class="g-blob1" cx="224.00000000000003" cy="55.00000000000001" r="220" fill="url(#g-blob1)"/>
+    <circle class="g-blob2" cx="576" cy="45" r="240" fill="url(#g-blob2)"/>
+    <circle class="g-blob3" cx="400" cy="105" r="200" fill="url(#g-blob3)"/>
+  </g>
+  <rect width="800" height="100" fill="url(#g-vignette)"/>
+  <g class="g-particles"><circle class="g-p p0" cx="400" cy="50" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p1" cx="768.68" cy="40.28" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p2" cx="422.89" cy="97.38" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p3" cx="623.29" cy="5.15" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p4" cx="549.49" cy="91.9" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p0" cx="581.39" cy="10" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p1" cx="650.43" cy="56.1" r="1.2" fill="#ffffff" opacity="0.2"/><circle class="g-p p2" cx="466.23" cy="23.77" r="1.2" fill="#ffffff" opacity="0.2"/></g>
+  
+  <g filter="url(#g-card-shadow)">
+    <rect x="30" y="18" width="740" height="64" rx="14" ry="14" fill="rgba(255,255,255,0.04)"/>
+  </g>
+  <rect x="30.5" y="18.5" width="739" height="63" rx="14" ry="14" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <rect x="31.5" y="19.5" width="737" height="61" rx="13" ry="13" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="400" y="57" text-anchor="middle" fill="#f5f5f7" font-family="Arial,sans-serif" font-size="20" letter-spacing="2">Build with AI.</text><rect x="0.5" y="0.5" width="799" height="99" rx="14" ry="14" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></svg>
