@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/glass-header.svg" width="100%" alt="Thulasi Vasan S — Machine Learning Engineer at Invisibl Cloud. Applied AI, agentic workflows, and backend systems." />
+  <img src="assets/glass-header.svg" width="100%" alt="Thulasi Vasan S — Machine Learning Engineer. Applied AI, agentic workflows, and backend systems." />
 </p>
 
 <p align="center">
