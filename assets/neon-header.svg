@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Thulasi Vasan S — Machine Learning Engineer</title>
+  <desc id="desc">Neon cyan and violet banner. Agentic AI, RAG, and backend systems.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d21"/><stop offset="1" stop-color="#17102f"/></linearGradient>
+    <linearGradient id="neon"><stop stop-color="#43e8ef"/><stop offset="1" stop-color="#ad7dff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7a4cd2" stop-opacity=".23"/><stop offset="1" stop-color="#7a4cd2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#b9a3ff" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="22" fill="url(#bg)" stroke="#39305c"/>
+  <rect x="2" y="2" width="1196" height="336" rx="21" fill="url(#grid)"/>
+  <circle cx="1020" cy="160" r="210" fill="url(#halo)"/>
+  <path d="M 52 1 H 1148" stroke="url(#neon)" stroke-width="3"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="64" y="65" font-size="13" letter-spacing="4" fill="#54e5ef">SASUKE-UCHIHA12 / ENGINEERING AI</text>
+    <text x="60" y="143" font-size="57" font-weight="bold" letter-spacing="-2" fill="#f2f1ff">Thulasi Vasan S</text>
+    <text x="64" y="188" font-size="23" fill="#c6b0ff">Machine Learning Engineer</text>
+    <path d="M 64 214 H 635" stroke="url(#neon)" stroke-opacity=".4"/>
+    <text x="64" y="249" font-size="17" letter-spacing="2" fill="#9baac8">AGENTIC AI  /  RAG  /  BACKEND SYSTEMS</text>
+    <circle cx="69" cy="290" r="4" fill="#54e5ef"><animate attributeName="opacity" values="1;.35;1" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="84" y="295" font-size="13" letter-spacing="1" fill="#8e9cb9">From retrieval to orchestration.</text>
+  </g>
+  <g transform="translate(1010 166)" fill="none">
+    <circle r="101" stroke="#7b5db4" stroke-opacity=".3" stroke-width="1"/>
+    <circle r="76" stroke="#43e8ef" stroke-opacity=".55" stroke-dasharray="12 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="70s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M 0 -52 L 49 -16 L 31 42 L -31 42 L -49 -16 Z M 0 -52 L 31 42 L -49 -16 L 49 -16 L -31 42 Z" stroke="url(#neon)" stroke-width="1.5"/>
+    <g fill="#43e8ef"><circle cy="-52" r="4"/><circle cx="49" cy="-16" r="4"/><circle cx="31" cy="42" r="4"/></g>
+    <g fill="#ad7dff"><circle cx="-31" cy="42" r="4"/><circle cx="-49" cy="-16" r="4"/></g>
+    <circle r="8" fill="#ad7dff" fill-opacity=".6"><animate attributeName="r" values="7;10;7" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M 910 296 H 1136" stroke="url(#neon)" stroke-width="2" stroke-opacity=".5"/>
+</svg>
